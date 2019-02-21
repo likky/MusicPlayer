@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">音乐播放器</string>
+  <string name="scan_songs">已为您扫描出本地歌曲数：</string>
+  <string name="quit">再按一次退出</string>
+  <string name="first_song">已经是第一首歌</string>
+  <string name="last_song">已经是最后一首歌</string>
+  <string name="current_song">当前播放歌曲是：</string>
+  <drawable name="clr_normal">#FFB4ECE2</drawable>
+  <drawable name="clr_pressed">#FF0000</drawable>
+  <drawable name="clr_normal1">#FFB4ECE2</drawable>
+  <drawable name="clr_pressed1">#FF0000</drawable>
+  <drawable name="clr_normal2">#FFB4ECE2</drawable>
+  <drawable name="clr_pressed2">#FF0000</drawable>
+  <drawable name="clr_normal3">#FFB4ECE2</drawable>
+  <drawable name="clr_pressed3">#FF0000</drawable>
+</resources>

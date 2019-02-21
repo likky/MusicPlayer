@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Music Player</string>
+  <string name="scan_songs">The number of local songs is: </string>
+  <string name="quit">Press again to exit the application</string>
+  <string name="first_song">It is already the first song</string>
+  <string name="last_song">It is already the last song</string>
+  <string name="current_song">Current playing song is: </string>
+  <drawable name="clr_normal">#FFB4ECE2</drawable>
+  <drawable name="clr_pressed">#FF0000</drawable>
+  <drawable name="clr_normal1">#FFB4ECE2</drawable>
+  <drawable name="clr_pressed1">#FF0000</drawable>
+  <drawable name="clr_normal2">#FFB4ECE2</drawable>
+  <drawable name="clr_pressed2">#FF0000</drawable>
+  <drawable name="clr_normal3">#FFB4ECE2</drawable>
+  <drawable name="clr_pressed3">#FF0000</drawable>
+</resources>

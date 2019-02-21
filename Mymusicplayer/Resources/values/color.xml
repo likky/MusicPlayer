@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ffffff</color>
+    <color name="primary_dark">#ffffff</color>
+    <color name="primary_light">#ffffff</color>
+    <color name="accent">#ffffff</color>
+    <color name="fallback1">#ffffff</color>
+    <color name="fallback2">#ffffff</color>
+    <color name="songRow">#ffffff</color>
+    <color name="shuffleOn">#555555</color>
+
+    <color name="navigation">#dddddd</color>
+    <color name="navigationBackground">#ffffff</color>
+</resources>
